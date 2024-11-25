@@ -210,7 +210,7 @@ import {
             </ReactFlow>
           </div>
             
-          <WhoIsOnline position="comments" /> 
+          {/* <WhoIsOnline position="comments" /> 
             <Comments 
                 pin={pin} 
                 position="left" 
@@ -218,7 +218,7 @@ import {
                 onPinActive={openThreads} 
                 onPinInactive={closeThreads} 
             /> 
-            <MousePointers elementId="react-flow-container" /> 
+            <MousePointers elementId="react-flow-container" />  */}
         </main>
       </div>
     );
